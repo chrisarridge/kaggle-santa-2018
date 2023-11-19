@@ -433,3 +433,7 @@ class Problem:
         if not isinstance(v, NodeCoordinateType):
             raise TypeError
         self._node_coord_type = v        
+
+    @property
+    def nodes(self) -> np.ndarray:
+        return self._nodes
