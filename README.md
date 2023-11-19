@@ -8,7 +8,7 @@ The problem is an [asymmetrical](https://en.wikipedia.org/wiki/Travelling_salesm
 
 The figure below shows the location of all cities in the problem and where the prime city id's are coloured in red.
 
-![santa-problem-space](C:\Users\chris\Documents\GitHub\kaggle-santa-2018\santa-problem-space.png)
+![santa-problem-space](santa-problem-space.png)
 
 ## Solution
 
