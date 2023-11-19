@@ -1,0 +1,7 @@
+
+*.pyc
+
+tsp95.pdf
+data/tsplib95
+data/othervalidation/gr9882.*
+data/othervalidation/xql662.*
