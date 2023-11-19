@@ -7,3 +7,4 @@ __author__ = 'Chris Arridge'
 from .exceptions import BadTspFile, ParsingError, UnsupportedEdgeWeight, UnsupportedProblemType
 from .libparser import load
 from .containers import Problem, Solution
+from .constants import *
